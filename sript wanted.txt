@@ -1,0 +1,6 @@
+I have multi Facebook page profile link or page id and what I want as below  
+When I will give the script the Facebook page profile links I want the script extract 
+All followers and all checking and page admin with Extract Facebook posts likers /comments/shares/reactions (user id) and engagement user id  and give me the result as table as below 
+Page id 	Post id 	user id 	City 	Country 	Age user id 	Gender 	Position 				Private mail not public user id  	Phone no user id	Status	
+I want to avoid blocks from Facebook with multi activity so try to setup auto app access token  or any your actual ways to avoid this problem 
+I want to use txt file for uploading Facebook pages profile and I want the report also with txt to avoid another’s languages  with ^  between column 
